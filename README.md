@@ -6,5 +6,7 @@ Prefix = ~
 
 | Command  | Aliases | Description
 | --- | --- | --- |
-| ping | pang, peng, pong, pyng | pong!' |
+| ping | pang, peng, pong, pyng | pong! |
 | pyramid | | Creates a pyramid in chat |
+| google | | Sends a link with your google search |
+| randomhex | randomcolor, rc, rh | Random hexadecimal color |
