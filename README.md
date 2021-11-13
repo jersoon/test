@@ -11,8 +11,10 @@ The prefix  is : ~
 | randomhex | randomcolor, rc, rh | Random hexadecimal color |
 | whispers | w | Send a link to your whispers |
 | echo | | This command can only be used by the owner |
+| say | | This command can only be used by the owner |
 | pyramid | | Makes a pyramid with a maximum of 30 |
 | spam | | Spams with a maximum of 50 |
 | rainbow | | Send a rainbow message |
-| animesearch | | Send a link to the anime you are looking for |
+| animesearch | as | Send a link to the anime you are looking for |
+| watchanime | | Send a link to the anime you want to watch |
 
