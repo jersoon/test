@@ -1,1 +1,1 @@
-![image](https://user-images.githubusercontent.com/94239373/141659228-91151d2a-e554-49d9-b684-35dd76342986.png)
+https://cdn.betterttv.net/emote/566d3352fb7103f332d79dbe/3x
