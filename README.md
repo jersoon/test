@@ -6,7 +6,7 @@ The prefix  is : ~
 
 | Command  | Aliases | Description
 | --- | --- | --- |
-| ping | pang, peng, pong, pyng | pong! |
+| ping | pang, peng, pong, pyng | pong! 🔔 |
 | google | | Sends a link with your google search |
 | randomhex | randomcolor, rc, rh | Random hexadecimal color |
 | whispers | w | Send a link to your whispers |
